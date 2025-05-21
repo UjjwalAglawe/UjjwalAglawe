@@ -10,7 +10,7 @@
 
 🎓 I'm a final-year **Computer Science Engineering** student with a strong foundation in:
 
-- 🌐 **Full Stack Web Development** (React, Next.js, Node.js, Express.js)
+- 🌐 **Full Stack Web Development** (React, Next.js, Node.js, Express.js, Docker, AWS)
 - 🔗 **Blockchain Development** (Ethereum, Solidity, Smart Contracts)
 - ⚡ **Real-Time Applications** (WebSockets, Live Drawing, Trading Platforms)
 - 🧠 **Problem Solver** with a focus on scalable, secure, and user-centric solutions
@@ -61,6 +61,8 @@
   <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" alt="AWS"/></a>
 </p>
 
 ---
