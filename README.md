@@ -1,26 +1,76 @@
-# ReadME_
+# 👋 Hello World! I'm Ujjwal Aglawe
 
-<h1 align="center">Hi 👋, I'm Ujjwal Aglawe</h1>
-<h3 align="center">A Engineering Student of Computer Science Engineering. Enthusiastic and dedicated student with a strong foundation in blockchain technology, Ethereum, and smart contract development, Web Development. Practical experience through the creation of decentralized applications (D Apps) that showcase a keen understanding of blockchain principles and innovative problem-solving. Eager to contribute technical expertise and a hands- on approach to real-world projects in a dynamic professional environment.</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | Web3 Enthusiast | Real-time Systems Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalaglawe&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalaglawe" /> </p>
-
-- 👯 I’m looking to collaborate on **Web3 Project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/UjjwalAglawe?tab=repositories](https://github.com/UjjwalAglawe?tab=repositories)
-
-- 💬 Ask me about **Blockchain , Solidity , React.js**
-
-- 📫 How to reach me **aglaweujjwal@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1_W2ki1rAdut7rLO7ikPD7XqOotGyI6Hp](https://drive.google.com/drive/u/1/folders/1_W2ki1rAdut7rLO7ikPD7XqOotGyI6Hp)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ujjwal aglawe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal aglawe" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/UjjwalAglawe?tab=repositories"><img src="https://komarev.com/ghpvc/?username=ujjwalaglawe&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalaglawe" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalaglawe&show_icons=true&locale=en&layout=compact" alt="ujjwalaglawe" /></p>
+🎓 I'm a final-year **Computer Science Engineering** student with a strong foundation in:
+
+- 🌐 **Full Stack Web Development** (React, Next.js, Node.js, Express.js)
+- 🔗 **Blockchain Development** (Ethereum, Solidity, Smart Contracts)
+- ⚡ **Real-Time Applications** (WebSockets, Live Drawing, Trading Platforms)
+- 🧠 **Problem Solver** with a focus on scalable, secure, and user-centric solutions
+
+---
+
+## 💼 Current Focus
+
+- 🔭 Building **decentralized freelancing platforms** and **NFT fractionalization tools**
+- 🛠 Developing Chrome Extensions like **"FOCUS ON"** for productivity
+- 🎨 Created a collaborative whiteboard app using **Next.js + WebSockets**
+- 💹 Crafting a provably fair **stake-style trading game**
+
+---
+
+## 📫 Reach Me
+
+- 📧 Email: [aglaweujjwal@gmail.com](mailto:aglaweujjwal@gmail.com)
+- 💼 Resume: [Google Drive](https://drive.google.com/file/d/1hQWgoNf9ziN3sXRJteDr9SyWPiSHkrgW/view?usp=drive_link)
+- 🔗 LinkedIn: [Ujjwal Aglawe](https://www.linkedin.com/in/ujjwal-aglawe-5a4004285/)
+
+---
+
+## 💬 Ask Me About
+
+- ⚛️ React.js, Next.js, Node.js, WebSockets
+- ☁️ Docker, AWS,
+- 🔐 Blockchain, Smart Contracts, and Ethereum
+- ⚙️ MongoDB, PostgreSQL, TailwindCSS
+- 📦 Building real-time & scalable full-stack projects
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40" alt="Express.js"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40" alt="MongoDB"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40" alt="PostgreSQL"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalaglawe&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+</p>
+
+---
+
+## 🤝 Let's Connect and Collaborate on Web3 & Full-Stack Projects!
