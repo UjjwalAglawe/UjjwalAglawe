@@ -15,14 +15,23 @@
 - ⚡ **Real-Time Applications** (WebSockets, Live Drawing, Trading Platforms)
 - 🧠 **Problem Solver** with a focus on scalable, secure, and user-centric solutions
 
+
+
+---
+
+## 🌐 Portfolio
+
+🎯 Explore my work, projects, and experience here:  
+👉 [https://portfoliio-cyan.vercel.app/](https://portfoliio-cyan.vercel.app/)
+
 ---
 
 ## 💼 Current Focus
 
-- 🔭 Building **decentralized freelancing platforms** and **NFT fractionalization tools**
-- 🛠 Developing Chrome Extensions like **"FOCUS ON"** for productivity
-- 🎨 Created a collaborative whiteboard app using **Next.js + WebSockets**
-- 💹 Crafting a provably fair **stake-style trading game**
+- 🔭 Building scalable **Full-stack web applications** using **Next.js**,**React.js**, **Node.js**, **Express.js**, and **PostgreSQL**
+- 🎨 Created a real-time collaborative whiteboard app with **Next.js + WebSockets**
+- ☁️ Exploring **DevOps practices** – CI/CD pipelines, containerization with **Docker**, deployment on **AWS**
+- 🔗 Working on **Web3  projects**, including decentralized freelancing tools and NFT fractionalization
 
 ---
 
