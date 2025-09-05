@@ -11,11 +11,9 @@
 🎓 I'm a final-year **Computer Science Engineering** student with a strong foundation in:
 
 - 🌐 **Full Stack Web Development** (React, Next.js, Node.js, Express.js, Docker, AWS)
-- 🔗 **Blockchain Development** (Ethereum, Solidity, Smart Contracts)
+- 🔗 **Blockchain Development** (Ethereum, Solidity, Smart Contracts, Solana, Foundry)
 - ⚡ **Real-Time Applications** (WebSockets, Live Drawing, Trading Platforms)
 - 🧠 **Problem Solver** with a focus on scalable, secure, and user-centric solutions
-
-
 
 ---
 
@@ -28,10 +26,10 @@
 
 ## 💼 Current Focus
 
-- 🔭 Building scalable **Full-stack web applications** using **Next.js**,**React.js**, **Node.js**, **Express.js**, and **PostgreSQL**
+- 🔭 Building scalable **Full-stack web applications** using **Next.js**, **React.js**, **Node.js**, **Express.js**, and **PostgreSQL**
 - 🎨 Created a real-time collaborative whiteboard app with **Next.js + WebSockets**
 - ☁️ Exploring **DevOps practices** – CI/CD pipelines, containerization with **Docker**, deployment on **AWS**
-- 🔗 Working on **Web3  projects**, including decentralized freelancing tools and NFT fractionalization
+- 🔗 Working on **Web3 projects**, including decentralized freelancing tools, NFT fractionalization, and **Solana dApps** with **Foundry**
 
 ---
 
@@ -46,8 +44,8 @@
 ## 💬 Ask Me About
 
 - ⚛️ React.js, Next.js, Node.js, WebSockets
-- ☁️ Docker, AWS,
-- 🔐 Blockchain, Smart Contracts, and Ethereum
+- ☁️ Docker, AWS, Cloud Deployments
+- 🔐 Blockchain, Smart Contracts, Ethereum, **Solana, Foundry**
 - ⚙️ MongoDB, PostgreSQL, TailwindCSS
 - 📦 Building real-time & scalable full-stack projects
 
@@ -72,6 +70,8 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" alt="AWS"/></a>
+  <a href="#"><img src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="40" height="40" alt="Solana"/></a>
+  <a href="#"><img src="https://avatars.githubusercontent.com/u/90737007?s=200&v=4" width="40" height="40" alt="Foundry"/></a>
 </p>
 
 ---
